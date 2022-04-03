@@ -14,6 +14,6 @@ Currently supported versions are:
 ## Support
 
 ```bash
-New features will be added to all versions >= 1.12
-Bugs will be fixed on all versions >= 1.12
+New features will be added to all versions
+Bugs will be fixed on all versions
 ```
