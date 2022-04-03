@@ -1,0 +1,35 @@
+name: Staff Essentials
+version: '${project.version}'
+main: me.charon.staffessentials.StaffEssentials
+api-version: 1.18
+authors: [ charon ]
+description: Plugin for staff team that has essential commands for them!
+website: charon.gq
+commands:
+  feed:
+    description: Feeds you or player that you mentioned!
+    permission: se.feed
+  heal:
+    description: Heals you or player that you mentioned!
+    permission: se.heal
+  kick:
+    description: Kick player from server!
+    permission: se.kick
+  ban:
+    description: Ban player from server!
+    permission: se.ban
+  unban:
+    description: Unban player from server!
+    permission: se.unban
+  tempban:
+    description: Ban player from server temporarily!
+    permission: se.tempban
+  banip:
+    description: Ban ip player from server!
+    permission: se.banip
+  report:
+    description: Report any player on server
+    permission: se.sendreport
+  staff:
+    description: See all online staff
+    permission: se.seestaff

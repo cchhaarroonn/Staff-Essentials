@@ -1,0 +1,10 @@
+me\charon\staffessentials\commands\banip.class
+me\charon\staffessentials\commands\heal.class
+me\charon\staffessentials\commands\ban.class
+me\charon\staffessentials\commands\report.class
+me\charon\staffessentials\commands\kick.class
+me\charon\staffessentials\commands\unban.class
+me\charon\staffessentials\commands\feed.class
+me\charon\staffessentials\commands\tempban.class
+me\charon\staffessentials\StaffEssentials.class
+me\charon\staffessentials\commands\staff.class
