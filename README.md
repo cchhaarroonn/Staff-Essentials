@@ -7,7 +7,7 @@ Minecraft plugin that is providing all essential commands for Staff! Current goa
 Currently supported versions are:
 
 ```bash
-❌1.9 or higher (soon)
+🛠️ 1.9 or higher (soon)
 ✔️ 1-8-1.8.9
 ```
 
@@ -22,8 +22,8 @@ Current features of Staff Essentials plugin
 ✔️ Unban
 ✔️ Banip
 ✔️ Ban
-❌ Tempban
-❌ Mute/UnMute
+🛠️ Tempban
+🛠️ Mute/UnMute
 ```
 
 ## Support
