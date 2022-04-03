@@ -18,10 +18,10 @@ New features will be added to all versions
 Bugs will be fixed on all versions
 ```
 
-##Useful links
+## Useful links
 Soon!
 
-##Contributing
+## Contributing
 - Fork this repo
 - Clone your repo
 - Make your changes
