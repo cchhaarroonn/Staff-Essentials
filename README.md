@@ -11,6 +11,21 @@ Currently supported versions are:
 ✔️ 1-8-1.8.9
 ```
 
+## Features
+
+Current features of Staff Essentials plugin
+
+```bash
+✔️ Online Staff
+✔️ Report
+✔️ Kick
+✔️ Unban
+✔️ Banip
+✔️ Ban
+❌ Tempban
+❌ Mute/UnMute
+```
+
 ## Support
 
 ```bash
