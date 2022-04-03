@@ -16,6 +16,8 @@ Currently supported versions are:
 Current features of Staff Essentials plugin
 
 ```bash
+✔️ Feed
+✔️ Heal
 ✔️ Online Staff
 ✔️ Report
 ✔️ Kick
