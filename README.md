@@ -17,3 +17,12 @@ Currently supported versions are:
 New features will be added to all versions
 Bugs will be fixed on all versions
 ```
+
+##Useful links
+Soon!
+
+##Contributing
+- Fork this repo
+- Clone your repo
+- Make your changes
+- Submit a pull request
