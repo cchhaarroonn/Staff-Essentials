@@ -7,7 +7,7 @@ Minecraft plugin that is providing all essential commands for Staff! Current goa
 Currently supported versions are:
 
 ```bash
-🛠️ 1.9 or higher (soon)
+🛠️ 1.9 or higher (Works on some versions)
 ✔️ 1-8-1.8.9
 ```
 
